@@ -2,7 +2,7 @@
 
 Here is the Java source code for the fianl project.
 
-public class CounterApp}
+public class CounterApp {
 
 private static volatile boolean countingComplete = false;
 
