@@ -1,6 +1,6 @@
 # Portfolio-Final-
 
-Here is the Java source code for the fianl project.
+Here is the Java source code for the final project.
 
 public class CounterApp {
 
