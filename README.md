@@ -3,6 +3,7 @@
 Here is the Java source code for the fianl project.
 
 public class CounterApp}
+
 private static volatile boolean countingComplete = false;
 
     public static void main(String[] args) {
