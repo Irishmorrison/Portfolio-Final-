@@ -46,9 +46,4 @@ static class CounterDown implements Runnable \{\
         \}\
     \}\
 \}\
-\pard\pardeftab720\partightenfactor0
 
-\f2\fs28 \cf4 \cb1 \
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs32 \cf2 \}}
